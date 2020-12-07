@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS stops;
+
+DROP TABLE IF EXISTS ratings;
+
+DROP TABLE IF EXISTS trips;
+
+DROP TABLE IF EXISTS ways_users;
+
+
